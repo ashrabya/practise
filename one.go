@@ -13,6 +13,7 @@ func main() {
 	fmt.Println(y)
 	fmt.Println(z)
 	fmt.Println(a)
-	fmt.Prinln(k)
-	)
+	fmt.Println(k)
+	fmt.Println(z)
+
 }
