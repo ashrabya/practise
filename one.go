@@ -7,6 +7,7 @@ var y string
 var z bool
 var a string
 var k bool
+var l int
 
 func main() {
 	fmt.Println(x)
@@ -15,5 +16,6 @@ func main() {
 	fmt.Println(a)
 	fmt.Println(k)
 	fmt.Println(z)
+	fmt.Println(l)
 
 }
